@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AishwaryaMaryGeorge_me20b015/static/css/main.a617e044.chunk.css",
+    "main.js": "/AishwaryaMaryGeorge_me20b015/static/js/main.3dfd0ce1.chunk.js",
+    "main.js.map": "/AishwaryaMaryGeorge_me20b015/static/js/main.3dfd0ce1.chunk.js.map",
+    "runtime-main.js": "/AishwaryaMaryGeorge_me20b015/static/js/runtime-main.79820263.js",
+    "runtime-main.js.map": "/AishwaryaMaryGeorge_me20b015/static/js/runtime-main.79820263.js.map",
+    "static/js/2.285166da.chunk.js": "/AishwaryaMaryGeorge_me20b015/static/js/2.285166da.chunk.js",
+    "static/js/2.285166da.chunk.js.map": "/AishwaryaMaryGeorge_me20b015/static/js/2.285166da.chunk.js.map",
+    "static/js/3.f0231301.chunk.js": "/AishwaryaMaryGeorge_me20b015/static/js/3.f0231301.chunk.js",
+    "static/js/3.f0231301.chunk.js.map": "/AishwaryaMaryGeorge_me20b015/static/js/3.f0231301.chunk.js.map",
+    "index.html": "/AishwaryaMaryGeorge_me20b015/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/AishwaryaMaryGeorge_me20b015/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.285166da.chunk.js.LICENSE.txt": "/AishwaryaMaryGeorge_me20b015/static/js/2.285166da.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/AishwaryaMaryGeorge_me20b015/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79820263.js",
+    "static/js/2.285166da.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.3dfd0ce1.chunk.js"
+  ]
+}
